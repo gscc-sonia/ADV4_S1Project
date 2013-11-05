@@ -38,6 +38,7 @@ public class MainActivity extends ActionBarActivity {
 
             if (a == 1) {
 //@@
+                //musle test
                 VideoPlayer1();
                 //tx1.setText("影片1");
             }
