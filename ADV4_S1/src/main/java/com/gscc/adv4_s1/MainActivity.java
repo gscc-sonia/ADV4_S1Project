@@ -37,7 +37,7 @@ public class MainActivity extends ActionBarActivity {
             int a = msg.getData().getInt("count", 0);
 
             if (a == 1) {
-
+//@@
                 VideoPlayer1();
                 //tx1.setText("影片1");
             }
