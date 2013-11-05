@@ -38,7 +38,7 @@ public class MainActivity extends ActionBarActivity {
 
             if (a == 1) {
 //@@
-                //musle test
+                //musle test-----3
                 VideoPlayer1();
                 //tx1.setText("影片1");
             }
